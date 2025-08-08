@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+thead{
+    background-color: burlywood;
+}
+tbody{
+    background-color: bisque;
+}
